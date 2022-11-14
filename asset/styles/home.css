@@ -3,3 +3,27 @@
     box-sizing: border-box;
     padding: 0;
 }
+header{
+    display:  flex;
+    justify-content:  space-around;
+    align-items: center;
+}
+.foto-perfil{
+    width: 20%;
+   
+}
+.about-section{
+    background-color: gray;
+    padding: 3%;
+    margin: 4px 0;
+}
+.about-section h2{
+    font-size: 3rem;
+    padding-left:5% ;
+    border-bottom: 1px solid white;
+    width: 35%;
+}
+
+.about-section p{
+    margin-top: 2%;    
+}
